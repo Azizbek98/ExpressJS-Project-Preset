@@ -2,7 +2,7 @@
 
 ![Banner Image](./banner.png "Banner Image")
 
-<h2 align="center">Express Project Preset with Typescript</h2>
+<h2 align="center">Express Project Preset (Typescript)</h2>
 
 <p align="center">This repository contains basic express project preset with typescript.</p>
 
